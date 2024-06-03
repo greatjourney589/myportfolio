@@ -1,32 +1,40 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Kyle Wang';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Software Engineer | Node | React | Vue | PHP`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'United States of America',
+  City: 'Indianapolis, Indiana',
+  Age: '27',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'Frontend Developer',
+    level: '93%',
   },
   {
-    title: 'React Developer',
-    level: '91%',
+    title: 'Backend Developer',
+    level: '81%',
   },
   // {
   //   title: 'Desktop Application Developer',
   //   level: '75%',
   // },
   {
-    title: 'Backend Developer',
-    level: '54%',
+    title: 'Fullstack Developer',
+    level: '89%',
   },
   {
-    title: 'Technical Blogger',
+    title: 'Blockchain Developer',
+    level: '90%',
+  },
+  {
+    title: 'Business Developer',
+    level: '79%'
+  },
+  {
+    title: 'Tech Consultant',
     level: '83%',
   },
 ];
@@ -56,12 +64,11 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'alijourney589@gmail.com',
+  PHONE: '+13156365319',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/greatjourney589',
+  LINKEDIN: 'https://www.linkedin.com/in/kyle-wang-ab1843311/',
+  SKYPE: 'live:.cid.37ef0eb54117d611',
 };
