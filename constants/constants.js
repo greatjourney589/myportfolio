@@ -1,6 +1,6 @@
 export const NAME = 'Kyle Wang';
 
-export const DESIGNATION = `Software Engineer | Node | React | Vue | PHP`;
+export const DESIGNATION = `Software Engineer | Node | AWS | React | Vue | PHP`;
 
 export const DETAILS = {
   Residence: 'United States of America',
@@ -70,5 +70,6 @@ export const CONTACTS = {
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/greatjourney589',
   LINKEDIN: 'https://www.linkedin.com/in/kyle-wang-ab1843311/',
-  SKYPE: 'live:.cid.37ef0eb54117d611',
+  SKYPE: 'https://join.skype.com/invite/NrcUecpMgclp',
+  TELEGRAM: 'https://t.me/leandrewallace',
 };
