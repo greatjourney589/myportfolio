@@ -37,7 +37,7 @@ git clone https://github.com/greatjourney589/portfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Telegram](https://t.me/leandrewallace) or email me directly at alijourney589@gmail.com.
+If you want to contact with me you can reach me at [Telegram](https://t.me/vinh0225) or email me directly at alijourney589@gmail.com.
 
 ### License
 

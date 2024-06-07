@@ -51,7 +51,7 @@ const Contact = () => {
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/greatjourney589" target='_blank' rel="noreferrer"><FaGithub /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://www.linkedin.com/in/kyle-wang-ab1843311/" target='_blank' rel="noreferrer"><FaLinkedin /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://join.skype.com/invite/NrcUecpMgclp" target='_blank' rel="noreferrer"><FaSkype /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="https://t.me/leandrewallace" target='_blank' rel="noreferrer"><FaTelegram /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://t.me/vinh0225" target='_blank' rel="noreferrer"><FaTelegram /></a>
                 </div>
 
 
