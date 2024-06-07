@@ -9,7 +9,7 @@ const Contact = () => {
         <span className='text-Snow text-xs font-bold'>Email Address</span>
 
         <span className='text-xs text-gray-600' mailto>
-          <Link href={`mailto:${CONTACTS.EMAIL}`}>{CONTACTS.EMAIL}</Link>
+          <Link mailto={CONTACTS.EMAIL} href="#">{CONTACTS.EMAIL}</Link>
         </span>
       </div>
       <div className='flex flex-col'>

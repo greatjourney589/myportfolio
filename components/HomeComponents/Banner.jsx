@@ -3,6 +3,7 @@ import BannerLayout from '../Common/BannerLayout';
 import { Link } from 'react-scroll';
 
 const Banner = () => {
+    console.log('[banner]')
     return (
         <BannerLayout>
             <div className="absolute inset-0 z-20 flex flex-col items-center py-6 justify-center w-full h-full bg-gradient-to-t from-MidNightBlack">
@@ -19,8 +20,12 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                        [
+                                                            'MERN Stack Developer',
+                                                            'VILT Stack Developer',
+                                                            'AWS Engineer',
+                                                            '.NET Developer',
+                                                        ],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
@@ -41,7 +46,7 @@ const Banner = () => {
                 <div className="grid grid-cols-2 gap-4 md:gap-0 md:flex items-center justify-between w-full px-4 xl:px-8 2xl:px-16">
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>10+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>20+</span>
                         <span className='text-xs text-Snow'>Completed Projects</span>
                     </div>
 
