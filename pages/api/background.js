@@ -42,7 +42,16 @@ const background = [
                 location: 'Tokyo, JP',
                 technologies: 'JavaScript, React, Bootstrap, Storybook, Webpack, Jest',
             },
-
+            {
+                id: 4,
+                title: 'Klassboard',
+                role: 'Full-Stack developer | Vue | GraphQL | Jest | Storybook',
+                url: 'https://www.encoderbytes.com/',
+                desc: 'Developed various features such as Classroom management, School Leadership Dashboard and Parent-Teacher communication features.',
+                year: '11/2018-06/2020',
+                location: 'Paris ile de, Fr',
+                technologies: 'Vue, Vuetify, Vuex, Custom components, Storybook, Twilio, GraphQL, Jest',
+            },
         ]
     }
 ]
