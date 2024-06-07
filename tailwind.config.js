@@ -14,7 +14,7 @@ module.exports = {
         EveningBlack: "#1a1a1a",
         DarkGray: "#282828",
         SlateGray: "#404040",
-        LightGray: "#959595",
+        LightGray: "#C5C5C5",
         SilverGray: "#B3B3B3",
         Snow: "#ffffff",
       },
