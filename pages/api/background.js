@@ -3,24 +3,10 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
-            },
-            {
-                id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
-            },
-            {
-                id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'Valparaiso University',
+                degree: 'BS, Computer Science',
+                detail: "Bachelor's Degree in Computer Science from Valparaiso University",
+                year: '2014-2018'
             },
         ]
     },
@@ -28,12 +14,12 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Pollfish, Inc',
+                role: 'Senior Full-Stack Developer | Typescript | React | Express.js | Prisma | GraphQL | Postgresql | AWS',
+                url: 'https://pollfish.com/',
+                desc: 'Led the development of survey management workflow enabling clients to create, share surveys, and analyze customer feedback.',
+                year: '01/2023 - 03/2024',
+                location: 'NY, USA'
             },
             {
                 id: 2,
