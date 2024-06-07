@@ -8,13 +8,13 @@ const Contact = () => {
       <div className='flex flex-col'>
         <span className='text-Snow text-xs font-bold'>Email Address</span>
 
-        <span className='text-xs text-gray-600' mailto>
+        <span className='text-xs text-gray-300' mailto>
           <Link mailto={CONTACTS.EMAIL} href="#">{CONTACTS.EMAIL}</Link>
         </span>
       </div>
       <div className='flex flex-col'>
         <span className='text-Snow text-xs font-bold'>Phone</span>
-        <span className='text-xs text-gray-600'>{CONTACTS.PHONE}</span>
+        <span className='text-xs text-gray-300'>{CONTACTS.PHONE}</span>
       </div>
     </div>
   );
