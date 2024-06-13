@@ -5,5 +5,8 @@ module.exports = {
     ignoreDuringBuilds: true,
   },
   reactStrictMode: true,
-  distDir: "out"
+  // distDir: "out",
+  images: {
+    unoptimized: true,
+  },
 }
