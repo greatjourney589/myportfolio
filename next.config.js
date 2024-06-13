@@ -4,4 +4,9 @@ module.exports = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
+  reactStrictMode: true,
+  // distDir: "out",
+  images: {
+    unoptimized: true,
+  },
 }
