@@ -82,10 +82,40 @@ const portfolio = [
     },
     {
         id: 3,
+        projectName: "Pepemon",
+        url: "https://pepemon.world",
+        image: "projects/pepemon.jpg",
+        projectDetail: "Web3 card game built on Pepechain - offering a world of action-packed fun.",
+        technologiesUsed: [
+            {
+                tech: "Blockchain"
+            },
+            {
+                tech: "Web3.js"
+            },
+            {
+                tech: "Ethers.js"
+            },
+            {
+                tech: "Smrat Contract"
+            },
+            {
+                tech: "Solidity"
+            },
+            {
+                tech: "MongoDB"
+            },
+            {
+                tech: "Node.js"
+            },
+        ]
+    },
+    {
+        id: 4,
         projectName: "Klassboard",
         url: "https://klassboard.com",
         image: "projects/klassboard.jpg",
-        projectDetail: "",
+        projectDetail: "Platform that allows schools, administrators, and teachers to broadcast messages, monitor attendance statistics, and schedule video conferencing.",
         technologiesUsed: [
             {
                 tech: "Vue"
@@ -105,7 +135,7 @@ const portfolio = [
         ]
     },
     {
-        id: 4,
+        id: 5,
         projectName: "SurfSkip",
         url: "https://whynotprivacy.com",
         image: "projects/surfskip.png",
@@ -129,7 +159,7 @@ const portfolio = [
         ]
     },
     {
-        id: 5,
+        id: 6,
         projectName: "Odysee",
         url: "https://odysee.com/",
         image: "projects/odysee.jpg",

@@ -90,6 +90,57 @@ const data = [
     },
     {
         id: 3,
+        projectName: "Pepemon",
+        url: "https://pepemon.world",
+        image: "projects/pepemon.jpg",
+        projectDetail: "Web3 card game built on Pepechain - offering a world of action-packed fun.",
+        technologiesUsed: [
+            {
+                tech: "Blockchain"
+            },
+            {
+                tech: "Web3.js"
+            },
+            {
+                tech: "Ethers.js"
+            },
+            {
+                tech: "Smrat Contract"
+            },
+            {
+                tech: "Solidity"
+            },
+            {
+                tech: "MongoDB"
+            },
+            {
+                tech: "Node.js"
+            },
+        ]
+    },
+    {
+        id: 4,
+        projectName: "GameRogue",
+        url: "https://gamerogue.com",
+        image: "projects/gamerogue.jpg",
+        projectDetail: "Tournament hosting platform - providing live stream and shop management",
+        technologiesUsed: [
+            {
+                tech: "Three.js"
+            },
+            {
+                tech: "Next.js"
+            },
+            {
+                tech: "Typescript"
+            },
+            {
+                tech: "Firebase"
+            },
+        ]
+    },
+    {
+        id: 5,
         projectName: "Klassboard",
         url: "https://klassboard.com",
         image: "projects/klassboard.jpg",
@@ -113,7 +164,7 @@ const data = [
         ]
     },
     {
-        id: 4,
+        id: 6,
         projectName: "SurfSkip",
         url: "https://whynotprivacy.com",
         image: "projects/surfskip.png",
@@ -137,7 +188,7 @@ const data = [
         ]
     },
     {
-        id: 5,
+        id: 7,
         projectName: "Odysee",
         url: "https://odysee.com/",
         image: "projects/odysee.jpg",
