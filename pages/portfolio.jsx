@@ -175,11 +175,11 @@ const Portfolio = () => {
             <div className="grid justify items-center grid-flow-row md:grid-cols-2 grid-rows-auto gap-4 px-8 my-6">
 
                 {
-                    isLoading ?
-                        [1, 2, 3, 4].map(() => (
-                            <ImageAndParagraphSkeleton className={"w-full object-cover"} />
-                        ))
-                        :
+                    // isLoading ?
+                    //     [1, 2, 3, 4].map(() => (
+                    //         <ImageAndParagraphSkeleton className={"w-full object-cover"} />
+                    //     ))
+                    //     :
                         data?.map((data, key) => (
                             <PortfolioCard key={key} data={data} />
                         ))
