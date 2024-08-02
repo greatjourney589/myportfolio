@@ -3,8 +3,7 @@ export const NAME = 'Kyle Wang';
 export const DESIGNATION = `Software Engineer | Node | AWS | React | Vue | PHP`;
 
 export const DETAILS = {
-  Residence: 'United States of America',
-  City: 'Indianapolis, Indiana',
+  Residence: 'Hong Kong',
   Age: '28',
 };
 
