@@ -3,7 +3,7 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://greatjourney589.github.io"><strong>➥ Live Demo</strong></a>
+<a href="https://greatjourney589.github.io/myportfolio"><strong>➥ Live Demo</strong></a>
 
 </div>
 
