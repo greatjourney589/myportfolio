@@ -73,6 +73,6 @@ export const CONTACTS = {
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/greatjourney589',
   LINKEDIN: 'https://www.linkedin.com/in/kyle-wang-ab1843311/',
-  SKYPE: 'https://join.skype.com/invite/NrcUecpMgclp',
-  TELEGRAM: 'https://t.me/greatjourney589',
+  SKYPE: '',
+  TELEGRAM: 'https://t.me/kyle0589',
 };
