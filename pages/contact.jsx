@@ -19,11 +19,11 @@ const Contact = () => {
                         <div className="card_stylings w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Country:</span>
-                                <span className='text-LightGray md:text-sm'>United States</span>
+                                <span className='text-LightGray md:text-sm'>Hong Kong</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>City:</span>
-                                <span className='text-LightGray md:text-sm'>Riverview, Michigun</span>
+                                <span className='text-LightGray md:text-sm'>Kowloon</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Status</span>
@@ -50,8 +50,8 @@ const Contact = () => {
                     <a className='hover:scale-125 ease-in-out duration-700' href="mailto:alijourney589@gmail.com" target='_blank' rel="noreferrer"><HiMail /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/greatjourney589" target='_blank' rel="noreferrer"><FaGithub /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://www.linkedin.com/in/kyle-wang-ab1843311/" target='_blank' rel="noreferrer"><FaLinkedin /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="https://join.skype.com/invite/NrcUecpMgclp" target='_blank' rel="noreferrer"><FaSkype /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="https://t.me/vinh0225" target='_blank' rel="noreferrer"><FaTelegram /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><FaSkype /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://t.me/kyle589" target='_blank' rel="noreferrer"><FaTelegram /></a>
                 </div>
 
 
